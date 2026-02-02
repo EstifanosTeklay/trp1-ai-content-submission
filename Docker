@@ -14,7 +14,7 @@ WORKDIR /app/ai-content
 RUN uv sync
 
 # Set environment variables
-ENV GEMINI_API_KEY="AIzaSyA2zS1lx5kf0jtxiiQklEEH1cKreAUKpmQ"
+ENV GEMINI_API_KEY="#"
 
 # Default command
 CMD ["uv", "run", "ai-content", "--help"]
