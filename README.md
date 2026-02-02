@@ -6,7 +6,7 @@
 
 ## 🎯 Project Overview
 
-This repository contains my submission for the TRP1 AI Content Generation Challenge, demonstrating the ability to explore, understand, and operate an unfamiliar AI content generation codebase within a 2-hour time limit.
+This repository contains  submission for the TRP1 AI Content Generation Challenge, demonstrating the ability to explore, understand, and operate an unfamiliar AI content generation codebase.
 
 ## 📁 Repository Structure
 
@@ -39,7 +39,7 @@ trp1-ai-content-submission/
 | 3 | Ambient Meditation | 30s | 5.13 MB | Lyria |
 | 4 | Salsa Rhythm | 30s | 5.13 MB | Lyria |
 
-**Listen to samples:** [Google Drive Folder](https://drive.google.com/drive/folders/1QV4bU4QMQOvaL9jOytiBth6_4SuepIXb?usp=sharing)
+**Listen to samples:** [Google Drive Folder](https://drive.google.com/file/d/1o0ZqDM7iqcIn4FisVItjJRgW-CbxSfO7/view?usp=sharing)
 
 ## 🛠️ Technical Highlights
 
@@ -137,7 +137,7 @@ Predefined presets combine technical parameters (BPM) with semantic descriptions
 ## 📄 Documentation
 
 - **[SUBMISSION.md](./SUBMISSION.md)** - Complete submission report with detailed analysis
-- **[Generated Audio Samples](https://drive.google.com/drive/folders/1QV4bU4QMQOvaL9jOytiBth6_4SuepIXb?usp=sharing)** - Google Drive folder with all generated tracks
+- **[Generated Audio Samples](https://drive.google.com/file/d/1o0ZqDM7iqcIn4FisVItjJRgW-CbxSfO7/view?usp=sharing)** - Google Drive folder with all generated tracks
 
 ## 🏆 Self-Assessment
 
@@ -153,7 +153,7 @@ Predefined presets combine technical parameters (BPM) with semantic descriptions
 ## 🔗 Links
 
 - **GitHub Repository:** https://github.com/EstifanosTeklay/trp1-ai-content-submission
-- **Audio Samples:** https://drive.google.com/drive/folders/1QV4bU4QMQOvaL9jOytiBth6_4SuepIXb?usp=sharing
+- **Audio Samples:** https://drive.google.com/file/d/1o0ZqDM7iqcIn4FisVItjJRgW-CbxSfO7/view?usp=sharing
 - **Original Challenge Repo:** https://github.com/10xac/trp1-ai-artist
 
 ## 📧 Contact
