@@ -1,0 +1,3 @@
+[submodule "ai-content"]
+	path = ai-content
+	url = https://github.com/10xac/trp1-ai-artist.git
