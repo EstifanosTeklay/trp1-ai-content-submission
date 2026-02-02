@@ -1,0 +1,20 @@
+FROM python:3.11-slim
+
+WORKDIR /app
+
+# Install uv
+RUN pip install uv
+
+# Copy project files
+COPY ai-content/ /app/ai-content/
+
+WORKDIR /app/ai-content
+
+# Install dependencies
+RUN uv sync
+
+# Set environment variables
+ENV GEMINI_API_KEY="AIzaSyA2zS1lx5kf0jtxiiQklEEH1cKreAUKpmQ"
+
+# Default command
+CMD ["uv", "run", "ai-content", "--help"]

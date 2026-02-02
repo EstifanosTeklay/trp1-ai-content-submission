@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  ai-content:
+    build: .
+    volumes:
+      - ./ai-content/exports:/app/ai-content/exports
+    environment:
+      - GEMINI_API_KEY=${AIzaSyA2zS1lx5kf0jtxiiQklEEH1cKreAUKpmQ}
+    command: uv run ai-content music --prompt "nostalgic jazz piano" --provider lyria --duration 30
